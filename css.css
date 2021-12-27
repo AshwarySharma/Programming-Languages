@@ -1,0 +1,146 @@
+body{
+    background-image: url(https://media.istockphoto.com/photos/dark-concrete-picture-id184601291?b=1&k=20&m=184601291&s=170667a&w=0&h=HffoEtC7p9h3ZlbJ0pI6XJ3uWRY6UnzfBK_1hrMQRKU=);
+    background-position: center;
+    margin:0;
+    padding:0;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.links{
+    border: white 4px solid;
+    color:white;
+    border-radius: 5px;
+
+}
+ul, button{
+    list-style-type: none;
+    float:center;
+    margin-top: 25px;;
+    font-size: 25px;
+    
+}
+
+header{
+    height:10vh;
+    justify-content: space-between;
+}
+ul li.h{
+    text-align:center;
+    margin-left: 255px;
+    color:white;
+    
+}
+ul li.g{
+    text-align: right;
+    margin-left: 20px;
+    color:white;
+    
+}
+ul li.i{
+    text-align:right;
+    color:white;
+}
+ul li.f{
+    text-align: center;
+    color:white;
+
+}
+ul li.a{
+    display: flex;
+    flex-direction: row;
+    float: left;
+    background-color: purple;
+    color:black;
+    border-radius: 10px;
+    padding: 5px;
+}
+ul li a:hover{
+    background-color: white;
+    
+    
+    color:black;
+}
+ul li a{
+    color:lightskyblue;
+    text-decoration: none;
+    transition: 0.6s ease ;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+hr{
+    background-color:green;
+    margin-top: 30px;
+}
+.main{
+    font-size: 40px;
+    
+}
+ul li a:active{
+    background-color: white;
+}
+ul li{
+    margin-left: 10px;
+    display: inline-block;
+}
+h1{
+    text-decoration: underline;
+    color: wheat;   
+}
+p{
+    font-size: 25px;
+    margin-left: 40px;
+    color:lightgreen;
+}
+.heading{
+    text-decoration: underline;
+    color:wheat;
+    font-size:32px;
+    margin-left: 10px;
+}
+.para{
+    font-size: 25px;
+    margin-left:40px;
+    color:lightgreen;
+}
+.under{
+    margin-left: 250px;
+}
+.title{
+    font-size: 100px;
+    text-decoration: underline;
+    color:whitesmoke;
+    text-align: center;
+}
+.content{
+    margin-top: 420px;
+}
+.first_head{
+    margin-top: 480px;
+}
+.always_titles{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    color:lightseagreen
+}
+.end{
+    color:white;
+    background-color: black;
+    padding-left: 10vh;
+    padding-right: 10vh;
+    font-size: 25px;
+    text-align: center;
+}
+.end_cum_head{
+    background-color: black;
+    padding-right: 10vh;
+    padding-left: 10vh;
+    border-radius: 5em;
+}
+ol li{
+    list-style-type: disc;
+    color:lightpink;
+    font-size: 25px;
+    margin-left: 10px;
+}
